@@ -1,0 +1,155 @@
+- !!map
+  id:                 0
+  name:               Sun
+  radius:             695_700_000
+  atmosphereAlt:      2_100_000
+  mass:               1.9885000e+30
+  stdGravParam:       1.3271244e+20
+  soi:                .inf
+  color:              0xffff00
+
+- !!map
+  id:                 1
+  name:               Mercury
+  radius:             2_439_000
+  mass:               3.3011000e+23
+  stdGravParam:       2.2032900e+13
+  soi:                xxx
+  orbit:
+    semiMajorAxis:    57_909_050_000
+    apoapsis:         69_816_900_000
+    periapsis:        46_001_200_000
+    eccentricity:     0.2
+    inclination:      7
+    argOfPeriapsis:   29
+    ascNodeLongitude: 48
+  meanAnomaly0:       3.05
+  epoch:              0
+  orbiting:           0
+  color:              0xa88161
+
+- !!map
+  id:                 2
+  name:               Venus
+  atmosphereAlt:      352_000
+  radius:             6_051_000
+  mass:               4.6023000e+24
+  stdGravParam:       3.2485900e+14
+  soi:                XXX
+  orbit:
+    semiMajorAxis:    108_208_000_000
+    apoapsis:         108_939_000_000
+    periapsis:        107_477_000_000
+    eccentricity:     0.01
+    inclination:      3.4
+    argOfPeriapsis:   55
+    ascNodeLongitude: 77
+  meanAnomaly0:       0.87
+  epoch:              0
+  orbiting:           0
+  color:              0x6c20e4
+ 
+- !!map
+  id:                 3
+  name:               Earth
+  radius:             3_371_000
+  atmosphereAlt:      150_000
+  mass:               5.9721700e+24
+  stdGravParam:       3.9860044e+14
+  soi:                XXX
+  orbit:
+    semiMajorAxis:    149_598_023_000
+    apoapsis:         152_100_000_000
+    periapsis:        147_095_000_000
+    eccentricity:     0.02
+    inclination:      0
+    argOfPeriapsis:   114.2
+    ascNodeLongitude: -11.36
+  meanAnomaly0:       6.26
+  epoch:              0
+  orbiting:           0
+  color:              0x8acac2
+  
+- !!map
+  id:                 4
+  name:               Moon
+  radius:             1_737_400
+  mass:               7.3420000e+22
+  stdGravParam:       4.9048695e+12
+  soi:                xxx
+  orbit:
+    semiMajorAxis:    384_399_000
+    apoapsis:         405_400_000
+    periapsis:        362_600_000
+    eccentricity:     0.55
+    inclination:      5.145
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       1.7
+  epoch:              0
+  orbiting:           3
+  color:              0x6b6a76
+  
+- !!map
+  id:                 5
+  name:               Mars
+  radius:             3_389_500
+  atmosphereAlt:      139_600
+  mass:               6.4171000e+23
+  stdGravParam:       4.2828372e+13
+  soi:                xxx
+  orbit:
+    semiMajorAxis:    227_939_366_000
+    apoapsis:         249_261_000_000
+    periapsis:        206_650_000_000
+    eccentricity:     0.0934
+    inclination:      1.85
+    argOfPeriapsis:   286.5
+    ascNodeLongitude: 49.5
+  meanAnomaly0:       0.339
+  epoch:              0
+  orbiting:           0
+  color:              0xa23e28
+  
+- !!map
+  id:                 6
+  name:               Jupiter
+  radius:             69_911_000
+  atmosphereAlt:      200_000
+  mass:               1.8982000e+27
+  stdGravParam:       1.2668653e+17
+  soi:                xxx
+  orbit:
+    semiMajorAxis:    778_479_000_000
+    apoapsis:         816_363_000_000
+    periapsis:        740_595_000_000
+    eccentricity:     0.049
+    inclination:      1.303
+    argOfPeriapsis:   273.9
+    ascNodeLongitude: 100.464   
+  meanAnomaly0:       0.35
+  epoch:              0
+  orbiting:           0
+  color:              0x548412
+  
+- !!map
+  id:                 7
+  name:               Saturn
+  radius:             58_232_000
+  atmosphereAlt:      200_000
+  mass:               5.6834000e+26
+  stdGravParam:       3.7931187e+16
+  soi:                xxx
+  orbit:
+    semiMajorAxis:    1_433_530_000_000
+    apoapsis:         1_514_500_000_000
+    periapsis:        1_352_550_000_000
+    eccentricity:     0.057
+    inclination:      2.485
+    argOfPeriapsis:   339
+    ascNodeLongitude: 113.665
+  meanAnomaly0:       5.53
+  epoch:              0
+  orbiting:           0
+  color:              0x548412
+  
